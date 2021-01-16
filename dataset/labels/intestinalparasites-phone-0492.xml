@@ -1,0 +1,32 @@
+<annotation>
+	<source>
+		<database>Makerere Automated Lab Diagnostics Database</database>
+		<annotation>Makerere University</annotation>
+		<image>Mulago National Referral Hospital</image>
+	</source>
+		
+	<object>
+		<label>Hookworm</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>251</ymin>
+			<xmax>891</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<label>Hookworm</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>461</ymin>
+			<xmax>1040</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
